@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=🚀+Building+Intelligent+Full-Stack+Systems;🌊+Flood+Prediction+with+GIS+%2B+AI+Pipelines;🧠+NLP+%7C+Computer+Vision+%7C+Reinforcement+Learning;☁️+AWS+Cloud+%7C+MERN+Stack+%7C+Spatial+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full-Stack+Developer+%7C+AI+%26+ML+Engineer;MERN+Stack+%7C+Cloud+%7C+GIS+%26+Spatial+AI;NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Real-World+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshwaran-s-2284232a9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokeshwaran-tech)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshwaran.sureshk@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%208925783934-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918925783934)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshwaran.sureshk@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/+91%208925783934-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918925783934)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lokeshwaran-tech&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -27,14 +27,14 @@
 ```python
 class Lokeshwaran:
     name         = "Lokeshwaran S"
-    location     = "Chennai, India 🇮🇳"
-    college      = "SRIHER – B.Tech CSE (AI & ML), 2023–2027"
+    location     = "Chennai, India"
+    college      = "SRIHER - B.Tech CSE (AI and ML), 2023-2027"
     gpa          = "8.20 / 10 (Latest)  |  7.58 CGPA"
-    roles        = ["Full-Stack Developer", "AI & ML Engineer", "GIS & Cloud Innovator"]
-    skills       = ["MERN Stack", "Machine Learning", "NLP", "Computer Vision",
+    roles        = ["Full-Stack Developer", "AI and ML Engineer", "GIS and Cloud Innovator"]
+    tech         = ["MERN Stack", "Machine Learning", "NLP", "Computer Vision",
                     "Spatial AI", "AWS Cloud", "Reinforcement Learning"]
-    highlight    = "Built a GIS + AI pipeline to predict & rank urban flood chokepoints"
-    available    = True   # Open to internships & collaborations 🚀
+    highlight    = "Built GIS + AI pipeline to predict and rank urban flood chokepoints"
+    open_to      = "Internships and Collaborations"
 ```
 
 ---
@@ -54,7 +54,7 @@ class Lokeshwaran:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-7b2ff7?style=for-the-badge&logo=shield&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-7b2ff7?style=for-the-badge&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ## 🤖 AI / Machine Learning
@@ -62,17 +62,17 @@ class Lokeshwaran:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-7b2ff7?style=for-the-badge&logo=openai&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-7b2ff7?style=for-the-badge&logoColor=white)
 ![SAC](https://img.shields.io/badge/SAC-00d4ff?style=for-the-badge&logoColor=white)
 ![DQN](https://img.shields.io/badge/DQN-00b4d8?style=for-the-badge&logoColor=white)
 ![PPO](https://img.shields.io/badge/PPO-0096c7?style=for-the-badge&logoColor=white)
 ![RLHF](https://img.shields.io/badge/RLHF-0077b6?style=for-the-badge&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## 📊 Data Science & Analytics
+## 📊 Data Science and Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -82,7 +82,7 @@ class Lokeshwaran:
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## ☁️ Cloud, Databases & DevOps
+## ☁️ Cloud, Databases and DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
@@ -122,15 +122,15 @@ class Lokeshwaran:
 
 <div align="center">
 
-| # | Project | Stack | What it does |
+| # | Project | Stack | Description |
 |---|---------|-------|-------------|
-| 🎯 | **PIRAP** – Placement Intelligence & Risk Analytics | MERN · Chart.js · Render | 6-engine SaaS backend — resume scoring, job competition modelling, 3-month placement probability |
-| 🌊 | **Drainage Bottleneck Analyzer** | Python · GeoPandas · QGIS · GEE · Scikit-learn | GIS + AI pipeline to detect urban flood chokepoints; heatmaps + ranked mitigation plans |
-| 🏢 | **Internship Approval System** | Node.js · React · MongoDB · JWT · Multer | MERN app with RBAC, multi-role approval workflows, PDF viewer & real-time dashboards |
-| 🧪 | **Intelligent MCQ Generator** | Python · T5 · spaCy · HuggingFace | Transformer-based MCQ generation with keyword extraction & distractor scoring |
-| 🗣️ | **Text-to-Speech (AWS Polly)** | Python · Boto3 · AWS Polly | Multi-voice neural TTS for accessibility apps using AWS cloud |
-| 👁️ | **RealTime Object Detection** | JavaScript · ml5.js · COCO-SSD | Browser-based live webcam detection with confidence scores & bounding boxes |
-| 📦 | **Smart Parcel Scheduler** | C · GTK · FCFS · Priority Scheduling | Adaptive scheduling with parcel tracking and file-based storage |
+| 🎯 | **PIRAP** - Placement Intelligence and Risk Analytics | MERN, Chart.js, Render | 6-engine SaaS backend — resume scoring, job competition modelling, 3-month placement probability |
+| 🌊 | **Drainage Bottleneck Analyzer** | Python, GeoPandas, QGIS, GEE, Scikit-learn | GIS + AI pipeline to detect urban flood chokepoints with heatmaps and ranked mitigation plans |
+| 🏢 | **Internship Approval System** | Node.js, React, MongoDB, JWT, Multer | MERN app with RBAC, multi-role approval workflows, PDF viewer and real-time dashboards |
+| 🧪 | **Intelligent MCQ Generator** | Python, T5, spaCy, HuggingFace | Transformer-based MCQ generation with keyword extraction and distractor scoring |
+| 🗣️ | **Text-to-Speech via AWS Polly** | Python, Boto3, AWS Polly | Multi-voice neural TTS for accessibility apps using AWS cloud |
+| 👁️ | **RealTime Object Detection** | JavaScript, ml5.js, COCO-SSD | Browser-based live webcam detection with confidence scores and bounding boxes |
+| 📦 | **Smart Parcel Scheduler** | C, GTK, FCFS, Priority Scheduling | Adaptive scheduling with parcel tracking and file-based storage |
 
 </div>
 
@@ -139,25 +139,29 @@ class Lokeshwaran:
 ## 💼 Experience
 
 ```
-🏢  AI & ML Intern — Spaceinf Technologies                    [ May 2025 – Jul 2025 ]
-    ├── Designed GIS + AI pipeline to detect critical drainage bottlenecks
-    ├── Stack: Python · Pandas · NumPy · GeoPandas · Rasterio · QGIS · Google Earth Engine
-    ├── Model: flow accumulation · slope variation · capacity mismatch scoring
-    └── Output: risk-ranked heatmaps + actionable flood mitigation recommendations
+  AI and ML Intern — Spaceinf Technologies          [ May 2025 – Jul 2025 ]
+  ├── Designed GIS + AI pipeline to detect critical drainage bottlenecks
+  ├── Stack: Python · Pandas · NumPy · GeoPandas · Rasterio · QGIS · Google Earth Engine
+  ├── Model: flow accumulation · slope variation · capacity mismatch scoring
+  └── Output: risk-ranked heatmaps + actionable flood mitigation recommendations
 ```
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 ```
-🎓  B.Tech CSE – Artificial Intelligence & Machine Learning
-    Sri Ramachandra Institute of Higher Education & Research (SRIHER), Chennai
-    2023 – 2027  |  Latest GPA: 8.20 / 10  |  CGPA: 7.58
+  B.Tech CSE – Artificial Intelligence and Machine Learning
+  Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai
+  2023 – 2027  |  Latest GPA: 8.20 / 10  |  CGPA: 7.58
 
-🏫  Higher Secondary (XII) – 74%
-    Valliammal Matriculation Higher Secondary School, Chennai  |  2022–2023
+  Higher Secondary (XII) – 74%
+  Valliammal Matriculation Higher Secondary School, Chennai  |  2022–2023
 ```
+
+---
+
+## 📜 Certifications
 
 | Badge | Certification | Issuer |
 |-------|--------------|--------|
@@ -200,6 +204,6 @@ class Lokeshwaran:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:7b2ff7,100:00d4ff&height=130&section=footer&text=Let's%20build%20something%20amazing!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:7b2ff7,100:00d4ff&height=130&section=footer&text=Let%27s%20build%20something%20amazing!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
